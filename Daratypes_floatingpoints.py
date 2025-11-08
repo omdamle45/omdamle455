@@ -1,3 +1,5 @@
 value 1 = 0.1
 value 2 = 0.2
 value 3 = value 1 + value 2
+
+print("The sum of", value 1, "and", value 2, "is", value 3)
